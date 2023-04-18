@@ -1,4 +1,4 @@
-# Awesome WebXR Stack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome WebXR Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- TOC ignore:true -->
 ## Contents
