@@ -19,16 +19,16 @@
     - [Visual Animation Editor](#visual-animation-editor)
 - [Particle System](#particle-system)
 - [Physics Engine](#physics-engine)
-- [Graphic](#graphic)
+- [Graphics](#graphics)
 - [Material / Shader](#material--shader)
     - [Visual Shader Editor](#visual-shader-editor)
 - [Assets](#assets)
     - [GLTF & KTX2](#gltf--ktx2)
     - [Avatar](#avatar)
 - [Debug](#debug)
-- [Learning Resource](#learning-resource)
+- [Learning Resources](#learning-resources)
     - [WebXR](#webxr)
-        - [Case Study](#case-study)
+        - [Case Studies](#case-studies)
     - [D Engine / Framework](#d-engine--framework)
     - [Graphics API, Computer Graphics](#graphics-api-computer-graphics)
 
@@ -131,7 +131,7 @@ A-Frame Boilerplates:
 - [@react-three/rapier](https://github.com/pmndrs/react-three-rapier) ![][r3f-badge] ([Rapier](https://rapier.rs/) ![][rust-badge]  ![][wasm-badge])
 - [use-cannon](https://github.com/pmndrs/use-cannon) ![][r3f-badge] ([cannon-es](https://github.com/pmndrs/cannon-es))
 
-## Graphic
+## Graphics
 
 - [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) ![][threejs-badge]
 - [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg) ![][threejs-badge]
@@ -180,7 +180,7 @@ A-Frame Boilerplates:
 [unity-badge]: https://badgen.net/badge/eco/unity/?color=black
 [webgpu-badge]: https://badgen.net/badge/eco/webgpu/?color=green
 
-## Learning Resource
+## Learning Resources
 
 ### WebXR
 
@@ -188,7 +188,7 @@ A-Frame Boilerplates:
 - [WebXR Samples](https://immersive-web.github.io/webxr-samples/)
 - [W3C standards and explainers](https://immersive-web.github.io/)
 
-#### Case Study
+#### Case Studies
 
 - [Project Flowerbed: A WebXR Case Study](https://developer.oculus.com/blog/project-flowerbed-a-webxr-case-study/)
 - [Slow Roads](https://web.dev/slow-roads/) - How Slow Roads intrigues gamers and developers alike, spotlighting the surprising capabilities of 3D in the browser
