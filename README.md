@@ -2,15 +2,16 @@
 
 <!-- TOC ignore:true -->
 ## Contents
+
 <!-- TOC -->
 
 - [Engine / Framework](#engine--framework)
     - [General 3D Rendering Engine](#general-3d-rendering-engine)
     - [General 3D App Framework](#general-3d-app-framework)
-    - [D Game Engine](#d-game-engine)
+    - [3D Game Engine](#3d-game-engine)
     - [Visual Editor](#visual-editor)
 - [XR Interaction](#xr-interaction)
-- [D GUI](#d-gui)
+- [2D GUI](#2d-gui)
     - [Layout](#layout)
     - [Form](#form)
     - [Image & Text](#image--text)
@@ -29,7 +30,7 @@
 - [Learning Resources](#learning-resources)
     - [WebXR](#webxr)
         - [Case Studies](#case-studies)
-    - [D Engine / Framework](#d-engine--framework)
+    - [3D Engine / Framework](#3d-engine--framework)
     - [Graphics API, Computer Graphics](#graphics-api-computer-graphics)
 
 <!-- /TOC -->
