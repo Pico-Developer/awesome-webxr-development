@@ -131,14 +131,14 @@ A-Frame Boilerplates:
 
 - [@react-three/rapier](https://github.com/pmndrs/react-three-rapier) ![][r3f-badge] ([Rapier](https://rapier.rs/) ![][rust-badge]  ![][wasm-badge])
 - [use-cannon](https://github.com/pmndrs/use-cannon) ![][r3f-badge] ([cannon-es](https://github.com/pmndrs/cannon-es))
-- [oimo](https://github.com/lo-th/Oimo.js) ![][threejs-badge]
+- [Oimo.js ](https://github.com/lo-th/Oimo.js) ![][threejs-badge]
 
 ## Graphics
 
 - [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) ![][threejs-badge]
 - [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg) ![][threejs-badge]
 - [@react-three/csg](https://github.com/pmndrs/react-three-csg) ![][r3f-badge]
-- [react-postprocessing](https://github.com/pmndrs/react-postprocessing) ![][r3f-badge]
+- [@react-three/postprocessing](https://github.com/pmndrs/react-postprocessing) ![][r3f-badge]
 
 ## Material / Shader
 
