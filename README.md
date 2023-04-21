@@ -10,9 +10,15 @@
     - [General 3D App Framework](#general-3d-app-framework)
     - [3D Game Engine](#3d-game-engine)
     - [Visual Editor](#visual-editor)
-- [XR Interaction](#xr-interaction)
+- [State Management](#state-management)
+- [Utilities](#utilities)
+- [Interaction](#interaction)
+    - [XR Interaction](#xr-interaction)
+    - [Desktop Interaction](#desktop-interaction)
+    - [Mobile Interaction](#mobile-interaction)
 - [2D GUI](#2d-gui)
     - [Layout](#layout)
+    - [HTML Layout](#html-layout)
     - [Form](#form)
     - [Image & Text](#image--text)
 - [Animation](#animation)
@@ -20,18 +26,21 @@
     - [Visual Animation Editor](#visual-animation-editor)
 - [Particle System](#particle-system)
 - [Physics Engine](#physics-engine)
+- [Gameplay](#gameplay)
 - [Graphics](#graphics)
 - [Material / Shader](#material--shader)
     - [Visual Shader Editor](#visual-shader-editor)
 - [Assets](#assets)
     - [GLTF & KTX2](#gltf--ktx2)
     - [Avatar](#avatar)
+- [Audio](#audio)
 - [Debug](#debug)
 - [Learning Resources](#learning-resources)
     - [WebXR](#webxr)
         - [Case Studies](#case-studies)
     - [3D Engine / Framework](#3d-engine--framework)
     - [Graphics API, Computer Graphics](#graphics-api-computer-graphics)
+    - [Game](#game)
 
 <!-- /TOC -->
 
@@ -84,9 +93,36 @@ A-Frame Boilerplates:
 - [react-three-editor](https://github.com/pmndrs/react-three-editor) ![][r3f-badge]
 - [Babylon.js Editor](https://editor.babylonjs.com/)  ![][babylon-badge]
 
-## XR Interaction
+## State Management
+
+- [bitECS](https://github.com/NateTheGreatt/bitECS)
+- [Miniplex](https://github.com/hmans/miniplex)
+- [XState](https://xstate.js.org/)
+- [Zustand](https://github.com/pmndrs/zustand) ![][r3f-badge]
+- [Jotai](https://github.com/pmndrs/jotai) ![][r3f-badge]
+- [Valtio](https://github.com/pmndrs/valtio) ![][r3f-badge]
+
+## Utilities
+
+- [three-stdlib](https://github.com/pmndrs/three-stdlib) ![][r3f-badge]
+- [Drei](https://github.com/pmndrs/drei) ![][r3f-badge]
+
+## Interaction
+
+### XR Interaction
 
 - [@react-three/xr](https://github.com/pmndrs/react-xr) ![][r3f-badge]
+- [Handy.js](https://stewartsmith.io/handy/)
+
+### Desktop Interaction
+
+- [Drei](https://github.com/pmndrs/drei) - [KeyboardControls](https://github.com/pmndrs/drei#keyboardcontrols) ![][r3f-badge]
+- [Drei](https://github.com/pmndrs/drei) - [PointerLockControls](https://github.com/pmndrs/drei#controls) ![][r3f-badge]
+
+### Mobile Interaction
+
+- [NippleJS](https://www.npmjs.com/package/nipplejs)
+- [MeshWalk.js](https://github.com/yomotsu/meshwalk) ![][threejs-badge]
 
 ## 2D GUI
 
@@ -95,7 +131,12 @@ A-Frame Boilerplates:
 - [three-mesh-ui](https://felixmariotto.github.io/three-mesh-ui/) ![][threejs-badge]
 - [@coconut-xr/koestlich](https://coconut-xr.github.io/koestlich) ![][r3f-badge]
 - [@react-three/flex](https://github.com/pmndrs/react-three-flex) ![][r3f-badge]
+
+### HTML Layout
 - [@etherealengine/xrui](https://github.com/EtherealEngine/etherealengine/tree/dev/packages/xrui) ![][threejs-badge]
+- [Satori](https://github.com/vercel/satori)
+- [html2canvas](https://html2canvas.hertzen.com/)
+- [HTMLMesh](https://github.com/mrdoob/three.js/blob/dev/examples/jsm/interactive/HTMLMesh.js) ![][threejs-badge]
 
 ### Form
 
@@ -113,6 +154,7 @@ A-Frame Boilerplates:
 
 - [React Spring](https://www.react-spring.dev/) [+ R3F](https://docs.pmnd.rs/react-three-fiber/tutorials/using-with-react-spring) ![][r3f-badge]
 - [Drei](https://github.com/pmndrs/drei) - [useAnimations](https://github.com/pmndrs/drei#useanimations) ![][r3f-badge]
+- [Framer Motion 3D](https://www.framer.com/motion/three-introduction/) ![][r3f-badge]
 
 ### Skeleton Animation
 
@@ -132,18 +174,28 @@ A-Frame Boilerplates:
 - [@react-three/rapier](https://github.com/pmndrs/react-three-rapier) ![][r3f-badge] ([Rapier](https://rapier.rs/) ![][rust-badge]  ![][wasm-badge])
 - [use-cannon](https://github.com/pmndrs/use-cannon) ![][r3f-badge] ([cannon-es](https://github.com/pmndrs/cannon-es))
 - [Oimo.js ](https://github.com/lo-th/Oimo.js) ![][threejs-badge]
+- [Enable3d](https://github.com/enable3d/enable3d) ![][threejs-badge]
+
+## Gameplay
+
+- [three-pathfinding](https://github.com/donmccurdy/three-pathfinding) ![][threejs-badge]
+- [recast-navigation-js](https://github.com/isaac-mason/recast-navigation-js) ![][threejs-badge]
+- [Yuka](https://mugen87.github.io/yuka/)
 
 ## Graphics
 
 - [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) ![][threejs-badge]
 - [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg) ![][threejs-badge]
 - [@react-three/csg](https://github.com/pmndrs/react-three-csg) ![][r3f-badge]
+- [THREE.MeshLine](https://www.npmjs.com/package/three.meshline) ![][threejs-badge]
 - [@react-three/postprocessing](https://github.com/pmndrs/react-postprocessing) ![][r3f-badge]
 
 ## Material / Shader
 
 - [Drei](https://github.com/pmndrs/drei) - [Shader](https://github.com/pmndrs/drei#shaders) ![][r3f-badge]
+- [Custom Shader Material (CSM)](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial) ![][threejs-badge]
 - [Three Landscape](https://github.com/nwpointer/three-landscape) ![][r3f-badge]
+- [Shader Composer](https://github.com/hmans/composer-suite/tree/main/packages/shader-composer) ![][threejs-badge]
 
 ### Visual Shader Editor
 
@@ -161,16 +213,24 @@ A-Frame Boilerplates:
 - [glTF-Transform](https://gltf-transform.donmccurdy.com/)
 - [glTFast](https://github.com/atteneder/glTFast)
 - [gltfpack](https://github.com/zeux/meshoptimizer/tree/master/gltf)
+- [glTF Pipeline](https://github.com/CesiumGS/gltf-pipeline)
 
 ### Avatar
 
 - [three-vrm](https://github.com/pixiv/three-vrm/) ![][threejs-badge]
 
+## Audio
+
+- [Howler.js](https://howlerjs.com/)
+- [Tone.js](https://tonejs.github.io/)
+
 ## Debug
 
 - [Immersive Web Emulator](https://github.com/meta-quest/immersive-web-emulator)
 - [LogXR](https://github.com/felixtrz/logxr)
+- [Spector.js](http://spector.babylonjs.com/) ![][babylon-badge]
 - [R3F-Perf](https://github.com/utsuboco/r3f-perf) ![][r3f-badge]
+- [stats.js](https://github.com/mrdoob/stats.js/) ![][threejs-badge]
 - [Drei](https://github.com/pmndrs/drei) - [PerformanceMonitor](https://github.com/pmndrs/drei#performancemonitor) ![][r3f-badge]
 - [@react-three/test-renderer](https://github.com/pmndrs/react-three-fiber/tree/master/packages/test-renderer) ![][r3f-badge]
 
@@ -220,3 +280,8 @@ A-Frame Boilerplates:
 - [The Book of Shaders](https://thebookofshaders.com/)
 - [Shader School](https://github.com/stackgl/shader-school)
 - [GAMES101: 现代计算机图形学入门](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+
+### Game
+
+- [Web Game Dev](https://www.webgamedev.com/)
+- [Red Blob Games](https://www.redblobgames.com/)
