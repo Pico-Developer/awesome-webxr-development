@@ -92,6 +92,7 @@ A-Frame Boilerplates:
 - [Needle Engine](https://needle.tools/) ![][threejs-badge] ![][unity-badge]
 - [react-three-editor](https://github.com/pmndrs/react-three-editor) ![][r3f-badge]
 - [Babylon.js Editor](https://editor.babylonjs.com/)  ![][babylon-badge]
+- [Theatre.js](https://www.theatrejs.com/) ![][threejs-badge] ![][r3f-badge]
 
 ## State Management
 
