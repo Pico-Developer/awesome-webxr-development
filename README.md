@@ -96,6 +96,7 @@ for VR & AR Web Apps
 - [Needle Engine](https://needle.tools/) ![][threejs-badge] ![][unity-badge] - Needle Engine is a web-based runtime for 3D apps. Needle Exporter for Unity bridges the Unity Editor and the web runtime. Together, they enable incredible iteration speeds and help you to bring your content to the web
 - [react-three-editor](https://github.com/pmndrs/react-three-editor) ![][r3f-badge] - A one of a kind scene editor that writes changes back into your code, and you don't need to change your code at all for it to to work!
 - [Babylon.js Editor](https://editor.babylonjs.com/)  ![][babylon-badge] - Provide community-driven powerful and simple tools that help Babylon.JS users to create beautiful, awesome 3D games / applications
+- [Theatre.js](https://www.theatrejs.com/) ![][threejs-badge] ![][r3f-badge] - Most of its users are using it as a visual editor now, than an animation editor
 
 ## State Management
 
