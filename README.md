@@ -58,6 +58,7 @@
 Three.js Boilerplates:
 
 - [threejs-template-simple](https://github.com/brunosimon/threejs-template-simple) ![][threejs-badge]
+- [threejs-andy-boilerplate](https://github.com/ektogamat/threejs-andy-boilerplate) ![][threejs-badge] - Very simple threejs boilerplate in VanillaJS to start your projects. There is only a basic scene, a load model method and a simple webpack
 
 Three.js + Vite Boilerplates:
 
@@ -69,6 +70,7 @@ Three.js + Vite Boilerplates:
 - [Babylon.js](https://www.babylonjs.com/) ![][babylon-badge] ![][webgpu-badge] - A powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework
 - [A-Frame](https://aframe.io/) ![][threejs-badge] ![][aframe-badge] - A web framework for building 3D/AR/VR experiences. Make 3D worlds with HTML and Entity-Component On any headset, mobile and desktop
 - [ion Engine](https://ion-3d-engine.io/) ![][threejs-badge] - A Javascript library for building 3D websites and virtual reality experiences. Supports creating interactive user interfaces for WebGL and WebXR projects using HTML/CSS/JS
+- [Elixr](https://elixrjs.io/) ![][threejs-badge] - A lightweight and flexible framework for building WebXR experiences. Built on top of three.js, Rapier physics engine and [ECSY](https://ecsyjs.github.io/ecsy/)
 
 React Three + Next.js Boilerplates:
 
@@ -77,6 +79,7 @@ React Three + Next.js Boilerplates:
 React Three Boilerplates:
 
 - [create-r3f-app](https://github.com/utsuboco/create-r3f-app) ![][r3f-badge]
+- [r3f-project-boilerplate](https://github.com/Ctrlmonster/r3f-project-boilerplate) ![][r3f-badge] - a simple boilerplate project for react three fiber projects with Typescript, TailwindCSS and Vite
 
 A-Frame Boilerplates:
 
@@ -88,15 +91,19 @@ A-Frame Boilerplates:
 - [Wonderland Engine](https://wonderlandengine.com/) ![][wasm-badge] - Development Platform
 for VR & AR Web Apps
 - [Ethereal Engine](https://www.etherealengine.com/) ![][threejs-badge] - Metaverse infrastructure for everyone. Everything you need to build and deploy scalable realtime 3D social apps and more
+- [Phy](https://github.com/lo-th/phy) ![][threejs-badge] - Phy simplify creation of game, is like a bridge between three.js and physics. Phy support last version of Oimo and Ammo. Now full support of two best engine Physx and Havok
+- [Lattice](https://github.com/unavi-xyz/lattice) - A lightweight, modular, and extendable 3D game engine built for the web. The engine is also highly performant, with speed gains from the ECS architecture and multi-threading via WebWorkers that would be difficult to achieve when using these libraries individually
 
 ### Visual Editor
 
 - [Polygon.js](https://polygonjs.com/) ![][threejs-badge] ![][r3f-badge] - Node-Based Design & Animation Tool for the Web
 - [Rogue Engine](https://rogueengine.io/) ![][threejs-badge] - A Unity3D-like environment to create WebXR enabled apps and games for the browser with three.js
 - [Needle Engine](https://needle.tools/) ![][threejs-badge] ![][unity-badge] - Needle Engine is a web-based runtime for 3D apps. Needle Exporter for Unity bridges the Unity Editor and the web runtime. Together, they enable incredible iteration speeds and help you to bring your content to the web
+- [Triplex](https://triplex.dev/) ![][r3f-badge] - Visually edit React Three Fiber components where code is source of truth
 - [react-three-editor](https://github.com/pmndrs/react-three-editor) ![][r3f-badge] - A one of a kind scene editor that writes changes back into your code, and you don't need to change your code at all for it to to work!
 - [Babylon.js Editor](https://editor.babylonjs.com/)  ![][babylon-badge] - Provide community-driven powerful and simple tools that help Babylon.JS users to create beautiful, awesome 3D games / applications
 - [Theatre.js](https://www.theatrejs.com/) ![][threejs-badge] ![][r3f-badge] - Most of its users are using it as a visual editor now, than an animation editor
+- [Threed Studio](https://threed.world/) ![][threejs-badge] - A 3D animation editor with a set of design, lighting and motion tools. It helps you create any 3D scene, from a simple product presentation to a complete game made with Three.js
 
 ## State Management
 
@@ -117,6 +124,7 @@ for VR & AR Web Apps
 
 ### XR Interaction
 
+- [@coconut-xr/natuerlich](https://github.com/coconut-xr/natuerlich) ![][r3f-badge] - WebXR Interaction library. Deliver composable and extensible interactions for immersive experiences
 - [@react-three/xr](https://github.com/pmndrs/react-xr) ![][r3f-badge] - React components and hooks for creating VR/AR applications with @react-three/fiber
 - [Reality Accelerator Toolkit (RATK)](https://github.com/meta-quest/reality-accelerator-toolkit) ![][threejs-badge] - A WebXR utilities library designed to simplify the integration of Mixed Reality features in WebXR apps. It is currently compatible with the three.js 3D library and aims to bridge the gap between low-level WebXR APIs and higher-level APIs provided by three.js
 - [Handy.js](https://stewartsmith.io/handy/) - Makes defining and recognizing custom hand poses in WebXR a snap
@@ -125,6 +133,7 @@ for VR & AR Web Apps
 
 - [Drei](https://github.com/pmndrs/drei) - [KeyboardControls](https://github.com/pmndrs/drei#keyboardcontrols) ![][r3f-badge] - A rudimentary keyboard controller which distributes your defined data-model to the useKeyboard hook. It's a rather simple way to get started with keyboard input
 - [Drei](https://github.com/pmndrs/drei) - [PointerLockControls](https://github.com/pmndrs/drei#controls) ![][r3f-badge]
+- [Floating Capsule Character Controller](https://github.com/ErdongChen-Andrew/CharacterControl) ![][r3f-badge] - Rigibody control
 
 ### Mobile Interaction
 
@@ -175,10 +184,14 @@ for VR & AR Web Apps
 
 - [Three Quarks](https://quarks.art/) ![][threejs-badge] - The Fastest Real-Time Particle VFX Engine for Web Experiences For Games, VR, AR, and UX
 - [Three Nebula](https://three-nebula.org/) ![][threejs-badge] - A WebGL based 3D particle system engine for Three.js
+- [r3f-effekseer](https://github.com/Ctrlmonster/r3f-effekseer) ![][r3f-badge] - Provide React bindings for the WebGL + WASM runtime of Effekseer. Effekseer is a mature Particle Effect Creation Tool, which supports major game engines, is used in many commercial games, and includes its own free to use editor
 
 ## Physics Engine
 
 - [@react-three/rapier](https://github.com/pmndrs/react-three-rapier) ![][r3f-badge] ([Rapier](https://rapier.rs/) ![][rust-badge]  ![][wasm-badge]) - A wrapper library around the Rapier (Fast 2D and 3D physics engine for the Rust) WASM-based physics engine, designed to slot seamlessly into a @react-three/fiber pipeline
+- [PhysX (physx-js-webidl)](https://github.com/fabmax/physx-js-webidl) - Javascript/WASM bindings for Nvidia PhysX based on emscripten/WebIDL
+- [Havok (@babylonjs/havok)](https://www.npmjs.com/package/@babylonjs/havok) - Havok is now available for the web, using a WebAssembly version of the engine. It is available, free to use, under the MIT license
+- [Jolt (JoltPhysics.js)](https://github.com/jrouwe/JoltPhysics.js) - Port of JoltPhysics to JavaScript using emscripten. Jolt Physics is a multi core friendly rigid body physics and collision detection library suitable for games and VR applications, used by Horizon Forbidden West
 - [use-cannon](https://github.com/pmndrs/use-cannon) ![][r3f-badge] ([cannon-es](https://github.com/pmndrs/cannon-es)) - React hooks for cannon-es (A lightweight 3D physics engine written in JavaScript). Use this in combination with @react-three/fiber
 - [Oimo.js ](https://github.com/lo-th/Oimo.js) ![][threejs-badge] - A lightweight 3d physics engine for JavaScript. It's a full javascript conversion of OimoPhysics (A lightweight 3D physics engine originally created for ActionScript 3.0)
 - [Enable3d](https://github.com/enable3d/enable3d) ![][threejs-badge] - Written in TypeScript, uses three.js and ammo.js, brings physics to your three.js project and the third dimension to your Phaser 3 game
@@ -234,6 +247,10 @@ for VR & AR Web Apps
 - [gltfpack](https://github.com/zeux/meshoptimizer/tree/master/gltf) - A tool that can automatically optimize glTF files to reduce the download size and improve loading and rendering speed
 - [glTF Pipeline](https://github.com/CesiumGS/gltf-pipeline) - Content pipeline tools for optimizing glTF assets by the Cesium team
 
+### USD
+
+- [Asset Explorer](https://asset-explorer.needle.tools/) - Contains glTF models and their USDZ counterparts. This page is targeted at implementers, developers, and designers working with these file formats. A clear goal is to allow you to download files for a specific usecase and check if your target viewer/platform supports what you want it to support
+
 ### Avatar
 
 - [three-vrm](https://github.com/pixiv/three-vrm/) ![][threejs-badge] - Use VRM (a file format for handling 3D humanoid avatar data for VR applications. It is based on glTF2.0) on three.js
@@ -249,8 +266,11 @@ for VR & AR Web Apps
 - [LogXR](https://github.com/felixtrz/logxr) - A debugging utility that makes it easy to view console logs in WebXR experiences. Currently, LogXR only supports Three.js, with support for Babylon.js coming soon
 - [Spector.js](http://spector.babylonjs.com/) ![][babylon-badge] - A complete engine agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes with ease
 - [R3F-Perf](https://github.com/utsuboco/r3f-perf) ![][r3f-badge] - Easily monitor the performances of your @react-three/fiber application
+- [three-perf](https://github.com/TheoTheDev/three-perf) ![][threejs-badge] - Vanilla Three.js port of r3f-perf(opens in a new tab)
+- [stats-gl](https://github.com/RenaudRohlinger/stats-gl) - WebGL Performance Monitor tool
 - [stats.js](https://github.com/mrdoob/stats.js/) ![][threejs-badge] - JavaScript Performance Monitor. Provides a simple info box that will help you monitor your code performance
 - [Drei](https://github.com/pmndrs/drei) - [PerformanceMonitor](https://github.com/pmndrs/drei#performancemonitor) ![][r3f-badge] - Collect the average fps over time
+- [webgpu-avoid-redundant-state-setting](https://github.com/greggman/webgpu-avoid-redundant-state-setting) - Check for and avoid redundant state setting
 - [@react-three/test-renderer](https://github.com/pmndrs/react-three-fiber/tree/master/packages/test-renderer) ![][r3f-badge] - A React testing renderer for threejs in node
 
 [threejs-badge]: https://badgen.net/badge/eco/three.js/?color=blue
