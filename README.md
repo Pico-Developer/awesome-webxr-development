@@ -34,6 +34,7 @@
     - [Visual Shader Editor](#visual-shader-editor)
 - [Assets](#assets)
     - [GLTF & KTX2](#gltf--ktx2)
+    - [USD](#usd)
     - [Avatar](#avatar)
 - [Audio](#audio)
 - [Debug](#debug)
@@ -127,6 +128,7 @@ for VR & AR Web Apps
 - [@coconut-xr/natuerlich](https://github.com/coconut-xr/natuerlich) ![][r3f-badge] - WebXR Interaction library. Deliver composable and extensible interactions for immersive experiences
 - [@react-three/xr](https://github.com/pmndrs/react-xr) ![][r3f-badge] - React components and hooks for creating VR/AR applications with @react-three/fiber
 - [Reality Accelerator Toolkit (RATK)](https://github.com/meta-quest/reality-accelerator-toolkit) ![][threejs-badge] - A WebXR utilities library designed to simplify the integration of Mixed Reality features in WebXR apps. It is currently compatible with the three.js 3D library and aims to bridge the gap between low-level WebXR APIs and higher-level APIs provided by three.js
+- [XRKeys](https://github.com/felixtrz/xrkeys) ![][threejs-badge] - A highly performant and plug-and-play WebXR keyboard library for Three.js applications
 - [Handy.js](https://stewartsmith.io/handy/) - Makes defining and recognizing custom hand poses in WebXR a snap
 
 ### Desktop Interaction
