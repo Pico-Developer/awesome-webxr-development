@@ -41,6 +41,7 @@
 - [Learning Resources](#learning-resources)
     - [WebXR](#webxr)
         - [Case Studies](#case-studies)
+        - [Performance Optimization](#performance-optimization)
     - [3D Engine / Framework](#3d-engine--framework)
     - [Graphics API, Computer Graphics](#graphics-api-computer-graphics)
     - [Game](#game)
@@ -300,6 +301,14 @@ for VR & AR Web Apps
 - [Above Paradowski WebXR Mini-Golf](https://paradowski.com/stories/above-par-adowski-webxr-mini-golf) - Taking [WebXR putt putt](https://aboveparadowski.com/) from prototype to polished product on par with native Quest 2 games
 - [Making PuttClub.io](https://www.etherealengine.com/blog-posts/making-puttclub-io-social-webxr-games-in-full-body-vr) - Social WebXR Games in Full Body VR. [The VR game](https://www.puttclub.io/) was developed to showcase the capabilities of Ethereal Engine, and serves as a key driving force in developing what we believe to be the most powerful web based immersive engine available today
 - [Building with WebXR at the Presence Platform Hackathon](https://developer.oculus.com/blog/webxr-presence-platform-hackathon-meta-quest/) - Five of these developer teams built WebXR apps that ran directly inside the Meta Quest Browser, without having to install anything
+
+#### Performance Optimization
+
+- [MDN - WebXR performance guide](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API/Performance)
+- [Meta Quest - WebXR Performance Optimization](https://developer.oculus.com/documentation/web/webxr-perf-workflow/)
+  - [Project Flowerbed - Performance & Optimization](https://developer.oculus.com/documentation/web/webxr-perf-workflow/)
+- [AFrame - Performance Best Practices](https://aframe.io/docs/1.4.0/introduction/best-practices.html#performance)
+- [Wonderland Engine - How We Profile WebXR/WebGL Apps](https://wonderlandengine.com/news/profiling-webxr-applications/)
 
 ### 3D Engine / Framework
 
