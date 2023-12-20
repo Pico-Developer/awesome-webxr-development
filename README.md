@@ -101,6 +101,7 @@ for VR & AR Web Apps
 - [Polygon.js](https://polygonjs.com/) ![][threejs-badge] ![][r3f-badge] - Node-Based Design & Animation Tool for the Web
 - [Rogue Engine](https://rogueengine.io/) ![][threejs-badge] - A Unity3D-like environment to create WebXR enabled apps and games for the browser with three.js
 - [Needle Engine](https://needle.tools/) ![][threejs-badge] ![][unity-badge] - Needle Engine is a web-based runtime for 3D apps. Needle Exporter for Unity bridges the Unity Editor and the web runtime. Together, they enable incredible iteration speeds and help you to bring your content to the web
+- [Onirix Studio](https://www.onirix.com) ![][threejs-badge] - A no-code editor for creating Web AR experiences. It allows to create and configure scenes easily by dragging assets into the renderer and share the result with a simple link or QR code. It emulates features of the WebXR if target device / browser is not compatible and include others not yet supported by WebXR like image-tracking
 - [Triplex](https://triplex.dev/) ![][r3f-badge] - Visually edit React Three Fiber components where code is source of truth
 - [react-three-editor](https://github.com/pmndrs/react-three-editor) ![][r3f-badge] - A one of a kind scene editor that writes changes back into your code, and you don't need to change your code at all for it to to work!
 - [Babylon.js Editor](https://editor.babylonjs.com/)  ![][babylon-badge] - Provide community-driven powerful and simple tools that help Babylon.JS users to create beautiful, awesome 3D games / applications
