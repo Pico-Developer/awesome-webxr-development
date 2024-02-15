@@ -73,6 +73,7 @@ Three.js + Vite Boilerplates:
 - [A-Frame](https://aframe.io/) ![][threejs-badge] ![][aframe-badge] - A web framework for building 3D/AR/VR experiences. Make 3D worlds with HTML and Entity-Component On any headset, mobile and desktop
 - [ion Engine](https://ion-3d-engine.io/) ![][threejs-badge] - A Javascript library for building 3D websites and virtual reality experiences. Supports creating interactive user interfaces for WebGL and WebXR projects using HTML/CSS/JS
 - [Elixr](https://elixrjs.io/) ![][threejs-badge] - A lightweight and flexible framework for building WebXR experiences. Built on top of three.js, Rapier physics engine and [ECSY](https://ecsyjs.github.io/ecsy/)
+- [Bezi](https://bezi.com/) - Bezi is a 3D design and prototyping tool for the team workflow. Bezi empowers you to ideate quickly, create compelling prototypes, and collaborate with your team-even if they don’t have 3D expertise.
 
 React Three + Next.js Boilerplates:
 
